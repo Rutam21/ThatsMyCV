@@ -22,7 +22,7 @@ github_username:  Rutam21
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: Rutam Prita Mishra
+linkedin_username: rutam-prita-mishra-a0a5b4171
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -100,6 +100,7 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
     
+    layout: list # Type of content section (list/text)
     content:      
        - layout: left
          title: Harvard University
