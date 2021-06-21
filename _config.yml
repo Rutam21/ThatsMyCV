@@ -121,7 +121,7 @@ content:
       - Netflix and Chill
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Footer](images/footer.png "Footer")
 
 # Footer
 footer_show_references: true
