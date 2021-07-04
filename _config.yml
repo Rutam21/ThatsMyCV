@@ -75,34 +75,28 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Cognizant Technology Solutions
-        link: https://www.cognizant.com/
-        # link_text: boringcompany.com
-        sub_title: Software Engineer I
-        caption: June 2019 - Present
+       - layout: left
+        title: C.V. Raman Global University
+        caption: 2015 - 2019
+        sub_title: BTech Computer Science and Engineering
         quote: >
-          Just a quote
+          To begin with, CGU, Odisha started as a degree level engineering college named as C.V. Raman College of Engineering (CVRCE) in the year 1997. Since its inception, it was wedded to quality and steadfastly remained committed to bringing about rapid transformations in the field of technical education by imparting high quality education and training through its well-equipped smart classrooms, world class labs, unbeatable Centres of Excellence and a rich library having connectivity with the leading libraries of the world. These are some of the shining feathers in the crown of CVRCE which helped the institute grow into a university in record time.
         description: | # this will include new lines to allow paragraphs
-            Worked as a Full Stack Java Developer in Insurance and Mortgage Domains for various reputed clients. Daily responsibilities included but not limited to:-
-              Code Developemnt and Unit Testing for Backend
-              Code Development and Unit Testing for Angular Frontend
-            The leftover time is utilised in upskilling and acquiring skills & certifications for current technologies as needed by Business.
-            A healthy working atmosphere with productivity and loads of team spirit is what I aim for and I make sure I provide my 100% for my organization.
-        
-      - layout: left  
-        title: Cognizant Technology Solutions
-        link: https://www.cognizant.com/
-        # link_text: boringcompany.com
-        sub_title: Intern
-        caption: Jan 2019 - May 2019
-        quote: >
-          Just a quote
-        description: | # this will include new lines to allow paragraphs
-            Worked as an Intern during my 8th Semester. Regular activities included :-
-               Full Stack Training and Organizational Grooming
-               Utilizing skills acquired to develop a Full Stack Web app
-               Inculcating Soft Skills and Behavioral Skills for a Professional life
+          During my time at CVRGU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as the Cultural Secretary of the *Department of C.S.E.* taking on actions such as *University Fests* and *Extra Curricular Activities*.
+  
+      -  layout: left
+         title: Resonance Residential College
+         caption: 2013 - 2015
+         sub_title: 12th Science
+         quote: >
+           Resonance Residential College (RRC) is a Co educational Institute incepted in the year 2009 under the ausices of Anantaa educational trust. The institute is duly recognised by the Government of Orissa and also affiliated to Council of Higher Secondary education. It is dedicated to provide timely need based qualitative education on science to fit them to serve the society in a great way.
+         description: | # this will include new lines to allow paragraphs
+          During my time at RRC I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
                   
  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
