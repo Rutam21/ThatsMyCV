@@ -1,3 +1,5 @@
+
+
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
@@ -12,7 +14,7 @@ email: rutamprita@gmail.com
 website: https://rutamfromweb.tech
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: RutamHere
