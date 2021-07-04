@@ -89,7 +89,7 @@ content:
               Code Development and Unit Testing for Angular Frontend
             The leftover time is utilised in upskilling and acquiring skills & certifications for current technologies as needed by Business.
             A healthy working atmosphere with productivity and loads of team spirit is what I aim for and I make sure I provide my 100% for my organization.
-       
+    content:   
       - layout: left
         title: Cognizant Technology Solutions
         link: https://www.cognizant.com/
@@ -103,6 +103,7 @@ content:
                Full Stack Training and Organizational Grooming
                Utilizing skills acquired to develop a Full Stack Web app
                Inculcating Soft Skills and Behavioral Skills for a Professional life
+               
  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
