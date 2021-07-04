@@ -1,9 +1,9 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+#repository: sproogen/resume-theme
+#favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+#version: 2
 
 # Personal info
 name: Rutam Prita Mishra
@@ -82,21 +82,22 @@ content:
         sub_title: Software Engineer I
         caption: June 2019 - Present
         quote: >
-          Solving 21st century problems by designing websites and making game changing web products like the *boss*
+          Just a quote
         description: | # this will include new lines to allow paragraphs
             Worked as a Full Stack Java Developer in Insurance and Mortgage Domains for various reputed clients. Daily responsibilities included but not limited to:-
               Code Developemnt and Unit Testing for Backend
               Code Development and Unit Testing for Angular Frontend
             The leftover time is utilised in upskilling and acquiring skills & certifications for current technologies as needed by Business.
             A healthy working atmosphere with productivity and loads of team spirit is what I aim for and I make sure I provide my 100% for my organization.
-              
+        
+      - layout: left  
         title: Cognizant Technology Solutions
         link: https://www.cognizant.com/
         # link_text: boringcompany.com
         sub_title: Intern
         caption: Jan 2019 - May 2019
         quote: >
-          Solving 21st century problems by designing websites and making game changing web products like the *boss*
+          Just a quote
         description: | # this will include new lines to allow paragraphs
             Worked as an Intern during my 8th Semester. Regular activities included :-
                Full Stack Training and Organizational Grooming
